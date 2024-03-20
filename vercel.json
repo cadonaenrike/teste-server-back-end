@@ -11,11 +11,5 @@
       "src": "/.*",
       "dest": "src/index.ts"
     }
-  ],
-  "hooks": {
-    "build": {
-      "src": "prisma generate",
-      "alwaysRun": true
-    }
-  }
+  ]
 }
