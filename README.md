@@ -1,4 +1,7 @@
 # Teste Server Software - API de Sistema de Gerenciamento de Estoque 
+![Screenshot_7](https://github.com/cadonaenrike/teste-server-back-end/assets/95323804/f2572b51-d8e5-4a25-b808-304c74caf135)
+
+link da API:https://teste-server-back-end.vercel.app/
 
 ## Descrição
 
